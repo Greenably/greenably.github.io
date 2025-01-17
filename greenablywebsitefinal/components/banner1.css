@@ -1,0 +1,39 @@
+.banner1-container1 {
+  gap: var(--dl-space-space-unit);
+  height: 248px;
+  display: flex;
+  position: relative;
+  align-items: center;
+}
+ 
+.banner1-max-width {
+  gap: var(--dl-space-space-oneandhalfunits);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner1-container2 {
+  gap: var(--dl-space-space-halfunit);
+  border: 2px dashed rgba(120, 120, 120, 0.4);
+  display: flex;
+  align-items: center;
+  flex-direction: column;
+}
+ 
+.banner1-title {
+  display: block;
+  font-size: 40px;
+  align-self: flex-start;
+  text-align: left;
+  font-family: "poppins";
+}
+ 
+.banner1-fragment {
+  display: contents;
+}
+ 
+.banner1-text {
+  color: rgb(255, 255, 255);
+  display: inline-block;
+}
