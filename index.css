@@ -2794,7 +2794,6 @@
   width: 100%;
   cursor: pointer;
   overflow: hidden;
-  box-shadow: 5px 5px 10px 0px #d4d4d4;
   transition: 0.3s;
   border-color: rgba(0, 0, 0, 0);
   border-width: 2px;
